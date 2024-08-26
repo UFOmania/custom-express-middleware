@@ -1,0 +1,16 @@
+{
+  "name": "custom-express-middleware",
+  "version": "1.0.0",
+  "description": "basics of a express js middleware",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "medox",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
